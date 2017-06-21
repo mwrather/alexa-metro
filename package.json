@@ -1,0 +1,9 @@
+{
+  "name": "alexa-metro",
+  "version": "0.0.1",
+  "description": "An Alexa Skill for the LA Metro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
